@@ -1,0 +1,12 @@
+
+
+.{
+    .name = "glfw",
+    .version = "3.4.0",
+    .dependencies = .{
+        .glfw = .{
+            .url = "https://github.com/buzmeg/glfw/archive/8f470597d625ae28758c16b4293dd42d63e8a83a.tar.gz",
+            .hash = "12202047e83332d37477811513bd6446c567efa6f03c4ae5e57585412b4ad8129cae",
+        }
+    },
+}
