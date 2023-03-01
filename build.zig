@@ -76,6 +76,7 @@ const generic_src_files = [_][]const u8{
 };
 
 const linux_src_files = [_][]const u8{
+    "src/posix_module.c",
     "src/posix_time.c",
     "src/posix_thread.c",
     "src/posix_poll.c",
